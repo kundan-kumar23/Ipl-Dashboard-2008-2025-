@@ -68,4 +68,4 @@ Enhanced visuals and logos improve storytelling and user engagement.
 ✅ Demonstrated strong DAX and data visualization skills.
 ✅ Highlighted the ability to build professional dashboards without SQL integration.
 
-Screenshot : (
+Screenshot : (https://github.com/kundan-kumar23/Ipl-Dashboard-2008-2025-/blob/main/Ipl%20Dashboard%20(2008%20-%202025).png)
